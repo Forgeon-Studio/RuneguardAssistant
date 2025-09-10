@@ -1,0 +1,2 @@
+# RuneGuardAssistant
+Core plugin
